@@ -1,0 +1,89 @@
+html {
+    width: 100;
+    height: 100;
+}
+
+body {
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+    font-size: 50px;
+}
+
+ul {
+     list-style-type: none;
+     margin: 0%;
+     padding: 8px 16px;
+     width: 100%;
+     position: auto;
+     height: 100%;
+     overflow: auto;
+     height: 3%;
+}
+
+li {
+    display: block;
+    float: right;
+    width: 100px;
+    text-align: center;
+    padding: 5px 5px;
+    text-decoration: none;
+    font-family: 'Forum', serif;
+}
+
+.content {
+    margin-top: 20px;
+    margin-left: 75px;
+    margin-right: 75px;
+    text-align: center;
+    font-family: 'Forum', serif;
+    font-size: 21px;
+}
+
+.magn_architecture {
+    text-align: center;
+    font-family: 'Forum', serif;
+    font-size: 21px;
+    display: block;
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+.achv_techn {
+    text-align: center;
+    font-family: 'Forum', serif;
+    font-size: 21px;
+    display: block;
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+.art_1 {
+    text-align: center;
+    font-family: 'Forum', serif;
+    font-size: 21px;
+    display: block;
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+.Chicago_2 {
+    text-align: center;
+    font-family: 'Forum', serif;
+    font-size: 21px;
+    display: block;
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+.prices_2 {
+    text-align: center;
+    font-family: 'Forum', serif;
+    font-size: 21px;
+    display: block;
+    margin-left: 75px;
+    margin-right: 75px;
+}
