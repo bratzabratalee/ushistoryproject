@@ -6,3 +6,95 @@ html {
 body {
     margin: 0;
 }
+
+h1 {
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+    font-size: 50px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0%;
+    padding: 8px 16px;
+    width: 100%;
+    position: relative;
+    height: 100%;
+    overflow: auto;
+    height: 3%;
+}
+
+li a {
+   display: block;
+   float: right;
+   width: 100px;
+   text-align: center;
+   padding: 5px 5px;
+   text-decoration: none;
+   font-family: 'Forum', serif;
+   margin-right: 20px;
+   color: black; 
+}
+
+li a:active {
+   color: rgb(0, 0, 0); 
+   transition: all 1s;
+}
+
+li a:hover {
+   color: brown; 
+   transition: all 1s;
+}
+
+.Engineering {
+    text-align: center;
+    font-family: 'Forum', serif;
+    font-size: 21px;
+    display: block;
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+.Guns_and_Artillery {
+    text-align: center;
+    font-family: 'Forum', serif;
+    font-size: 21px;
+    display: block;
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+.Architecture {
+    text-align: center;
+    font-family: 'Forum', serif;
+    font-size: 21px;
+    display: block;
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+.Art {
+    text-align: center;
+    font-family: 'Forum', serif;
+    font-size: 21px;
+    display: block;
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+.Attractions {
+    text-align: center;
+    font-family: 'Forum', serif;
+    font-size: 21px;
+    display: block;
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+.footer_1 {
+    text-align: left;
+    font-family: 'Forum', serif; 
+    font-size: 16px; 
+    margin-left: 20px; 
+    margin-top: 50px;
+}
