@@ -46,3 +46,11 @@ li a:hover {
    color: brown; 
    transition: all 1s;
 }
+
+.footer_1 {
+    text-align: left;
+    font-family: 'Forum', serif; 
+    font-size: 16px; 
+    margin-left: 20px; 
+    margin-top: 50px;
+}
