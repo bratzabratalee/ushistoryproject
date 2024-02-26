@@ -19,7 +19,7 @@ ul {
      margin: 0%;
      padding: 8px 16px;
      width: 100%;
-     position: relative;
+     position: fixed;
      height: 100%;
      overflow: auto;
      height: 3%;
